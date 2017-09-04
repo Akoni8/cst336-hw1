@@ -20,3 +20,11 @@ nav a:hover {
     font-size: 2em;
     transition: .9s;
 }
+
+figure, div {
+    float:left;
+}
+
+h1 {
+    color: white;
+}

@@ -7,12 +7,22 @@
     </head>
     <body>
         <h1>Homework 1</h1>
+        <h2>Programming Languages</h2>
+        
+        <img src="programlanguage.jpg"></img>
+        
         
         <nav>
-            <a href="cs1.html">CS Topic 1</a>  <br>
-            <a href="cs2.html">CS Topic 2</a>  <br>
-            <a href="cs3.html">CS Topic 3</a>  <br>
-            <a href="cs4.html">CS Topic 4</a>  <br>
+            <a href="index.php">Home</a> <br>
+            <a href="cs1.html">Python</a>  <br>
+            <a href="cs2.html">Java</a>  <br>
+            <a href="cs3.html">Swift</a>  <br>
         </nav>
+        
+        <div>
+            <p>Programming languages are formal languages that follow specific sets of instructions used to produce various kinds of outputs.
+            They generally consist of instructions for a computer and can be used to create programs by implementing specific algorithms.
+            </p>
+        </div>
     </body>
 </html>
