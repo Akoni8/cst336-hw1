@@ -19,7 +19,7 @@
         
         <img src="programlanguage.jpg"></img>
         
-        <div>
+        <div id = "container">
             <p>Programming languages are formal languages that follow specific sets of instructions used to produce various kinds of outputs.
             They generally consist of instructions for a computer and can be used to create programs by implementing specific algorithms.
             </p>

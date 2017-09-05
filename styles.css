@@ -28,3 +28,7 @@ figure, div {
 h1 {
     color: white;
 }
+
+#container {
+    margin: 0 auto;
+}
