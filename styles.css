@@ -1,6 +1,6 @@
 body {
     background-color: black;
-    color:gray;
+    color: gray;
 	padding: 20px;
 	font-family: 'Source Sans Pro', sans-serif;
 	vertical-align: middle;
@@ -43,4 +43,12 @@ h2 {
 
 .language {
     color: white;
+}
+
+p {
+    text-align: left;
+}
+
+#container {
+    color:lightgray;
 }
