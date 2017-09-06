@@ -9,8 +9,7 @@ body {
 	margin: 20px auto;
 }
 
-
-header, main, nav, footer {
+nav {
     text-align: center; 
 }
 
