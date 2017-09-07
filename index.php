@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <meta charset="utf-8"/ >
+        <meta charset="utf-8"/>
         <title>Homework 1</title>
         <link rel="stylesheet" href="styles.css" type="text/css" />
     </head>
@@ -18,7 +18,8 @@
         <h2>Programming Languages</h2>
         
         <figure>
-            <img src="programlanguage.jpg"></img>
+          
+            <img src="programlanguage.jpg" alt="programming languages">
         </figure>
         
         <div id = "container">
@@ -33,12 +34,7 @@
                 <li>Java</li>
                 <li>Swift</li>
             </ul>
-             <iframe width="560" height="315" src="https://www.youtube.com/embed/RU1u-js7db8" frameborder="0" allowfullscreen></iframe> 
+             <iframe width="560" height="315" src="https://www.youtube.com/embed/RU1u-js7db8" allowfullscreen></iframe> 
         </div>
-         
-       
-        
-        
-        
     </body>
 </html>
