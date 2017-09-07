@@ -13,6 +13,10 @@ nav {
     text-align: center; 
 }
 
+nav a:nth-of-type(2n) {
+    color: gray;
+}
+
 nav a {
     padding: 15px;
     padding-bottom: 4px;
@@ -22,17 +26,20 @@ nav a {
 }
 
 nav a:hover {
-    border-bottom: 2px orange solid;
+    border-bottom: 2px cyan solid;
     font-size: 2em;
     transition: .9s;
 }
 
-figure, div {
+figure {
     float:left;
 }
 
+div {
+    float: right;
+}
+
 h1 {
-    color: white;
     text-decoration: underline;
 }
 
@@ -41,13 +48,47 @@ h2 {
 }
 
 .language {
-    color: white;
+    color: cyan;
 }
 
 p {
+    float:right;
     text-align: left;
 }
 
 #container {
     color:lightgray;
+    margin: 0px auto;
+}
+
+img {
+    padding-bottom:15px;
+}
+
+.heading {
+    text-align: left;
+}
+
+.info:first-letter {
+    font-size: 1.2em;
+}
+
+div a {
+    color: blue;
+}
+
+li {
+    color: #0000FF;;
+}
+
+li:nth-of-type(2n) {
+    color: orange;
+}
+
+#homework {
+    text-transform: uppercase;
+}
+
+ul {
+    font-family: cursive;
 }
